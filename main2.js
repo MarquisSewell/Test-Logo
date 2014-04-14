@@ -1,9 +1,9 @@
+var green = [0, 100, 63];
+var yellow = [0, 100, 6];
 var red = [0, 100, 63];
-var black = [0, 100, 6];
-
 
 var myName = "Apple"
-letterColors = [red, black];
+letterColors = [green, yellow, red];
 if(9 > 4) {
     bubbleShape ="circle";
 }

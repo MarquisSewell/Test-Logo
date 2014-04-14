@@ -1,9 +1,10 @@
 var red = [0, 100, 63];
-var black = [0, 100, 6];
+var green = [0, 100, 6];
+var yellow = [0, 100, 63];
 
 
 var myName =" Google"
-letterColors = [red, black];
+letterColors = [red, green, yellow];
 if(9 > 4) {
     bubbleShape ="circle";
 }
