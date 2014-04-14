@@ -2,7 +2,7 @@ var red = [0, 100, 63];
 var black = [0, 100, 6];
 
 
-var myName =" YungSewell"
+var myName =" Google"
 letterColors = [red, black];
 if(9 > 4) {
     bubbleShape ="circle";
