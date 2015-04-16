@@ -1,10 +1,10 @@
-var red = [0, 100, 63];
-var green = [0, 100, 6];
-var yellow = [0, 100, 63];
+var #008000 = [0, 100, 63];
+var #008000 = [0, 100, 6];
+var #008000 = [0, 100, 63];
 
 
-var myName =" Google"
-letterColors = [red, green, yellow];
+var myName =" ThatKidQuis"
+letterColors = [#008000, #008000, #008000];
 if(9 > 4) {
     bubbleShape ="circle";
 }
